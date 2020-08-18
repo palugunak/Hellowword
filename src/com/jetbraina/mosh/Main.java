@@ -1,6 +1,4 @@
 package com.jetbraina.mosh;
-
-
 import java.text.NumberFormat;
 import java.util.Scanner;
 
